@@ -6,7 +6,7 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/phogolabs/orm"
+	"github.com/hellohippo/orm"
 )
 
 var _ = Describe("Stmt", func() {

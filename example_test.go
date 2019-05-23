@@ -3,7 +3,7 @@ package orm_test
 import (
 	"fmt"
 
-	"github.com/phogolabs/orm"
+	"github.com/hellohippo/orm"
 	"github.com/phogolabs/parcello"
 	lk "github.com/ulule/loukoum"
 )

@@ -13,8 +13,8 @@ import (
 	lk "github.com/ulule/loukoum"
 
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/phogolabs/orm"
-	"github.com/phogolabs/orm/fake"
+	"github.com/hellohippo/orm"
+	"github.com/hellohippo/orm/fake"
 	"github.com/phogolabs/parcello"
 )
 
