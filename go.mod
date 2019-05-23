@@ -1,4 +1,4 @@
-module github.com/phogolabs/orm
+module github.com/hellohippo/orm
 
 require (
 	github.com/Pallinder/go-randomdata v1.1.0
